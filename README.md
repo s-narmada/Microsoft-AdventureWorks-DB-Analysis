@@ -1,4 +1,4 @@
-# Microsoft-AdventureWorks Database Analysis & Visualization with Microsoft PowerBI
+# Microsoft-AdventureWorks Database Analysis (with SQL & Excel) & Visualization with Microsoft PowerBI
 Microsoft AdventureWorks Database Analysis and Visualization with PowerBI. It's sample database, I chose 'AdventureWorksLT2019.bak' data for analysis and visualization. The query editing was done in 'Microsoft SQL Server Management Studio' and visualization part was using 'Microsoft Power BI'. Also for analysis I used MS Excel and PowerBI's query tool.
 
 ## Dashboard Link: 
