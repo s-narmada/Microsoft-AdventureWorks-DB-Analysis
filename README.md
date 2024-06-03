@@ -11,7 +11,7 @@ From *"AdventureWorksDW2019"* Database, the following tables were chosen for ana
 1. Dim_Customer.sql
 2. Dim_Products.sql
 3. Dim_Date.sql
-4. FactInternetSales.sql
+4. Fact_Sales.sql
 
 #### Query Editing Tool: "Microsoft SQL Server Management Studio"
 #### Visualization Tool: "Microsoft Power BI"
